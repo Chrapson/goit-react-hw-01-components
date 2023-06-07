@@ -1,0 +1,19 @@
+.transactionHistory {
+  font-size: 16px;
+  border: 2px solid lightgray;
+}
+.header {
+  background-color: #abdff5;
+  color: #fff;
+  padding: 10px;
+  text-transform: uppercase;
+}
+.column {
+  text-transform: capitalize;
+  height: 40px;
+  text-align: center;
+  padding: 0 10px;
+}
+.row:nth-child(even) {
+  background-color: lightgray;
+}
